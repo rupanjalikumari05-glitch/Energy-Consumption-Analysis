@@ -63,22 +63,7 @@ This project aims to solve these challenges using data analytics.
 
 ## 📈 Dashboard Preview
 
-![Dashboard](images/dashbard.png)
-
----
-
-## 📁 Project Structure
-
-```
-Energy-Consumption-Analytics/
-│
-├── data/                # Raw and processed datasets
-├── notebooks/           # Python analysis notebooks
-├── sql/                 # SQL queries
-├── dashboard/           # Power BI dashboard (.pbix)
-├── images/              # Dashboard screenshots
-└── README.md
-```
+![Dashboard](images/dashbard.jpeg)
 
 ---
 
@@ -98,12 +83,5 @@ Energy-Consumption-Analytics/
 * Advanced anomaly detection techniques
 * Automated alert system for high consumption
 
----
 
-## 👩‍💻 Author
-
-**Rupanjali**
-Aspiring Data Analyst | SQL | Python | Power BI
-
----
 
