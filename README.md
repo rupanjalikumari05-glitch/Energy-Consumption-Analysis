@@ -59,14 +59,6 @@ This project aims to solve these challenges using data analytics.
 * Clear monthly and hourly consumption patterns
 * Potential areas for reducing operational costs
 
----
-
-## 📈 Dashboard Preview
-
-(dashbard image.jpeg)
-
----
-
 ## 💡 Business Impact
 
 * Helps organizations reduce energy costs
