@@ -62,7 +62,7 @@ This project aims to solve these challenges using data analytics.
 ---
 
 ## 📈 Dashboard Preview
-"C:\Users\rupan\Downloads\dashbard image.png"
+
 
 [![Dashbard](dashbard image.png)](dashbard image.png)
 
