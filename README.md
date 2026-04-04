@@ -63,7 +63,7 @@ This project aims to solve these challenges using data analytics.
 
 ## 📈 Dashboard Preview
 
-![Dashboard](dashbaord image.jpeg)
+![Dashboard]("C:\Users\rupan\OneDrive\Desktop\Energy-Consumption-Analysis\dashboard image\dashbard image.jpeg")
 
 ---
 
