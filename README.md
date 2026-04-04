@@ -59,6 +59,29 @@ This project aims to solve these challenges using data analytics.
 * Clear monthly and hourly consumption patterns
 * Potential areas for reducing operational costs
 
+---
+
+## 📈 Dashboard Preview
+
+![Dashboard](images/dashbard.png)
+
+---
+
+## 📁 Project Structure
+
+```
+Energy-Consumption-Analytics/
+│
+├── data/                # Raw and processed datasets
+├── notebooks/           # Python analysis notebooks
+├── sql/                 # SQL queries
+├── dashboard/           # Power BI dashboard (.pbix)
+├── images/              # Dashboard screenshots
+└── README.md
+```
+
+---
+
 ## 💡 Business Impact
 
 * Helps organizations reduce energy costs
@@ -76,3 +99,11 @@ This project aims to solve these challenges using data analytics.
 * Automated alert system for high consumption
 
 ---
+
+## 👩‍💻 Author
+
+**Rupanjali**
+Aspiring Data Analyst | SQL | Python | Power BI
+
+---
+
