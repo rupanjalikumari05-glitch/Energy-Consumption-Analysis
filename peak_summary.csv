@@ -1,0 +1,11 @@
+department,usage_type,total_cost
+Admin,Non-Peak,2594458.45
+Admin,Peak,1848220.54
+HR,Non-Peak,2058671.05
+HR,Peak,1482907.4
+IT,Non-Peak,3108894.31
+IT,Peak,2207087.77
+Production,Non-Peak,6229864.73
+Production,Peak,4479816.4
+R&D,Non-Peak,4159442.21
+R&D,Peak,2961993.24
