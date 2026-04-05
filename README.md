@@ -64,7 +64,7 @@ This project aims to solve these challenges using data analytics.
 ## 📈 Dashboard Preview
 
 
-[![Dashbard](dashbard image.png)](dashbard image.png)
+[![Dashbard](dashboard_image.png)](dashboard_image.png)
 
 ---
 
